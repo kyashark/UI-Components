@@ -1,2 +1,2 @@
 # SimpleUI
-UI Element Design And Develop
+UI Components Design and Develop
